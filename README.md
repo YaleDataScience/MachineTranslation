@@ -1,7 +1,7 @@
 # YDS Project : Machine Translation
 ---
 
-We go over the history of Machine Traslation from the IMB Models to recent models based off of neural networks. 
+We go over the history of Machine Traslation from the IMB Models to recent models based on nerual networks. The ultimate objective of this project is to implement a system of neural networks that respect linguistic structures, such as part of speech, distortion between languages. 
 
 
 ### Members
