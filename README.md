@@ -11,6 +11,7 @@ We go over the history of Machine Traslation from the IMB Models to recent nerua
 
 ### Log
 Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
+
 | Task | Status | Deadline | Assigned to |
 |------|--------|----------|-------------|
 |Read [Paper](https://arxiv.org/pdf/1409.0473v7.pdf)|:speech_balloon:|11.12.16|Jungo, Sumedh, Udit|
