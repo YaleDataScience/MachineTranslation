@@ -7,6 +7,15 @@ We go over the history of Machine Traslation from the IMB Models to recent nerua
 ### Members
 - Jungo Kasai
 - Sumedh Guha
+- Udit Jain
+
+### Log
+Status: [ not started :black_medium_square: | completed :white_check_mark: | in progress :speech_balloon:]
+| Task | Status | Deadline | Assigned to |
+|------|--------|----------|-------------|
+|Read [Paper](https://arxiv.org/pdf/1409.0473v7.pdf)|:speech_balloon:|11.12.16|Jungo, Sumedh, Udit|
+|Prototype|:black_medium_square:|11.22.16|Jungo, Sumedh, Udit|
+
 
 ### Resources
 - [IMB Models](http://orbis.library.yale.edu/vwebv/holdingsInfo?searchId=3472&recCount=50&recPointer=0&bibId=11716860)
